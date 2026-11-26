@@ -1,6 +1,8 @@
 # news-image-20261125
 
-[![make.fun · news-image-20261125](https://make.fun/badge/news-image-20261125.svg)](https://make.fun/bounty/news-image-20261125)
+[![make.fun · news-image-20261125](https://make.fun/badge/news-image-20261125.svg)](https://make.fun/bounty/news-image-20261125?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125)
+[![rank](https://make.fun/badge/news-image-20261125/Painkum/news-image-20261125/rank.svg)](https://make.fun/bounty/news-image-20261125/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125)
+[![reward](https://make.fun/badge/news-image-20261125/Painkum/news-image-20261125/reward.svg)](https://make.fun/bounty/news-image-20261125?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125)
 
 The world's news of Wednesday 25 November 2026 in one image: "The World's Oil Is On Fire".
 Houthis strike Saudi Arabia's Ras Tanura refinery, mined tankers burn in the Strait of Hormuz,
@@ -14,3 +16,7 @@ so every run writes the same bytes with no network.
 ```sh
 mkdir -p out && MAKEFUN_OUTPUT_DIR=out python main.py
 ```
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/bounty/news-image-20261125).</sub>
